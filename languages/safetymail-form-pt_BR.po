@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#: admin/class-safetymail-form-admin.php:117
+msgid "Safetymails"
+msgstr "Safetymails"
+
+#: admin/class-safetymail-form-admin.php:127
+msgid "All Forms"
+msgstr "Todos os formulários"
+
+#: admin/class-safetymail-form-admin.php:136
+msgid "Edit Form"
+msgstr "Editar formulário"
+
+#: admin/class-safetymail-form-admin.php:145
+msgid "New Form"
+msgstr "Novo formulário"
+
+#: admin/class-safetymail-form-admin.php:154
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/partials/safetymail-form-admin-display.php:17
+msgid "Safetymails Forms"
+msgstr "Formulários SafetyMails"
+
+#: admin/class-safetymail-form-admin.php:145
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: includes/class-safetymail-form-list.php:120
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/class-safetymail-form-list.php:126
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class-safetymail-form-list.php:180
+msgid "Name"
+msgstr "Nome"
+
+#: includes/class-safetymail-form-list.php:181
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-safetymail-form-list.php:182
+msgid "Action"
+msgstr "Ação"
+
+#: admin/partials/safetymail-form-admin-new.php:17
+msgid "Add New Form"
+msgstr "Adicionar novo formulário"
+
+#: admin/partials/safetymail-form-admin-new.php:18
+msgid "Create a brand new form using protected by Safetymails"
+msgstr "Crie um formulário novinho em folha com a proteção da SafetyMails"
+
+#: admin/partials/safetymail-form-admin-new.php:25
+msgid "Ex: contact, newsletter, etc."
+msgstr "Ex: contato, newsletter, etc."
+
+#: admin/partials/safetymail-form-admin-new.php:26
+msgid "A simple name to identify the form"
+msgstr "Um nome simples pra você identificar seu formulário na listagem"
+
+#: admin/partials/safetymail-form-admin-new.php:30
+msgid "Action Placeholder"
+msgstr "Ex: contato.php, https://meublog.com/cadastro, etc"
+
+#: admin/partials/safetymail-form-admin-new.php:31
+msgid "Action Hint"
+msgstr "Arquivo ou endereço para onde seu formulário enviará as informações"
+
+#: admin/partials/safetymail-form-admin-new.php:37
+msgid "Save Form"
+msgstr "Salvar formulário"
+
+#: admin/partials/safetymail-form-admin-new.php:38
+msgid "Return"
+msgstr "Voltar"
+
+#: admin/partials/safetymail-form-admin-edit.php:46
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/partials/safetymail-form-admin-edit.php:48
+msgid "Key given by SafetyOptin"
+msgstr "Chave fornecida pelo SafetyOptin"
+
+#: admin/partials/safetymail-form-admin-edit.php:51
+msgid "Ticket API"
+msgstr "Ticket API"
+
+#: admin/partials/safetymail-form-admin-edit.php:53
+msgid "Ticket given by SafetyOptin"
+msgstr "Ticket fornecido pleo SafetyOptin"
+
+#: admin/partials/safetymail-form-admin-edit.php:62
+msgid "Message Settings"
+msgstr "Configurações da mensagem"
+
+#: admin/partials/safetymail-form-admin-edit.php:70
+msgid "Subject"
+msgstr "Assunto"
+
+#: admin/partials/safetymail-form-admin-edit.php:72
+msgid "Subject for the messages sent from the form"
+msgstr "Assunto das mensagens enviadas pelo formulário"
+
+#: admin/partials/safetymail-form-admin-edit.php:75
+msgid "Name to send mail as"
+msgstr "Nome do remetente"
+
+#: admin/partials/safetymail-form-admin-edit.php:79
+msgid "Sender email"
+msgstr "Email remetente"
+
+#: admin/partials/safetymail-form-admin-edit.php:81
+msgid "Email address to send mail from"
+msgstr "Email que enviará as mensagens"
+
+#: admin/partials/safetymail-form-admin-edit.php:84
+msgid "Recipient email"
+msgstr "Email de destino"
+
+#: admin/partials/safetymail-form-admin-edit.php:86
+msgid "Email address to send mail to"
+msgstr "Para onde as mensagens serão enviadas"
+
+#: admin/partials/safetymail-form-admin-edit.php:89
+msgid "Reply Email"
+msgstr "Email de resposta"
+
+#: admin/partials/safetymail-form-admin-edit.php:91
+msgid "Optional reply-to email for the messages sent from the form"
+msgstr "Caso deseje, um email diferente de resposta"
+
+#: admin/partials/safetymail-form-admin-edit.php:94
+msgid "Content type"
+msgstr "Conteúdo da mensagem"
+
+#: admin/partials/safetymail-form-admin-edit.php:111
+msgid "Form settings"
+msgstr "Comportamento do formulário"
+
+#: admin/partials/safetymail-form-admin-edit.php:118
+msgid "Validation message"
+msgstr "Mensagem de validação"
+
+#: admin/partials/safetymail-form-admin-edit.php:121
+msgid "This message will be displayed for invalid email addresses"
+msgstr "Essa mensagem será exibida para emails inválidos"
+
+#: admin/partials/safetymail-form-admin-edit.php:125
+msgid "Post-processing action"
+msgstr "Ação após o envio"
+
+#: admin/partials/safetymail-form-admin-edit.php:128
+msgid "None"
+msgstr "Nenhuma"
+
+#: admin/partials/safetymail-form-admin-edit.php:131
+msgid "Show Message"
+msgstr "Exibir mensagem"
+
+#: admin/partials/safetymail-form-admin-edit.php:134
+msgid "Redirect"
+msgstr "Redirecionar"
+
+#: admin/partials/safetymail-form-admin-edit.php:143
+msgid "Message"
+msgstr "Mensagem"
+
+#: admin/partials/safetymail-form-admin-edit.php:144
+msgid "Redirect URL"
+msgstr "URL de redirecionamento"
+
+#: admin/partials/safetymail-form-admin-edit.php:150
+msgid "Send email status"
+msgstr "Enviar status o email na mensagem"
+
+#: admin/partials/safetymail-form-admin-edit.php:153
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/partials/safetymail-form-admin-edit.php:156
+msgid "No"
+msgstr "Não"
+
+#: admin/partials/safetymail-form-admin-edit.php:162
+msgid "Send invalid email addresses"
+msgstr "Enviar emails inválidos"
+
+#: admin/partials/safetymail-form-admin-edit.php:179
+msgid "Build your form"
+msgstr "Crie seu formulário"
+
+#: admin/partials/safetymail-form-admin-edit.php:53
+msgid "Activate email validation"
+msgstr "Ativar validação de emails"
+
+#: admin/partials/safetymail-form-admin-edit.php:161
+msgid ""
+"Register your Form API on SafetyMail's SafetyOptin, copy the data (API Key "
+"and Ticket API) and paste here to link your form to your integration."
+msgstr ""
+"Cadastre o formulário no SafetyOptin, copie os dados (API Key e Ticket "
+"API) e cole aqui para conectar seu formulário à sua integração."

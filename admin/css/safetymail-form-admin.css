@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.hidden{
+  display: none;
+}
+
+.code-copy{
+  margin: 0 5px;
+}
+
+td.column-code .code-copy{
+  display: none;
+}
+
+td.column-code:hover .code-copy{
+  display: inline;
+}
+
+.form-wrap label.field-label{
+  display: inline-block;
+}
+
+.col-md-12{
+  padding-left: 0;
+}
+
+.form-group.hidden{
+  display: none;
+}
+
+#accordion .card{
+  padding: 0;
+  margin-top: 0;
+  max-width: 100%;
+}
+
+.plugin-logo {
+  max-width: 20%;
+  display: block;
+}
+
+.alert.alert-info.small {
+  display: inline-block;
+}
+
+.form-group.value-wrap {
+  display: none;
+}
+
+.form-wrap.form-builder .frmb .form-elements label:first-child {
+  text-transform: none !important;
+}
+
+.input-wrap label{
+  display: inline-block;
+}

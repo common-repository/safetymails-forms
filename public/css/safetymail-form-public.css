@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.hidden {
+  display: none !important;
+}
+
+.form-wrap label.field-label, .form-render label{
+  display: inline-block;
+}

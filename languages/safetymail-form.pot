@@ -1,0 +1,203 @@
+#: admin/class-safetymail-form-admin.php:117
+msgid "Safetymails"
+msgstr ""
+
+#: admin/class-safetymail-form-admin.php:127
+msgid "All Forms"
+msgstr ""
+
+#: admin/class-safetymail-form-admin.php:136
+msgid "Edit Form"
+msgstr ""
+
+#: admin/class-safetymail-form-admin.php:145
+msgid "New Form"
+msgstr ""
+
+#: admin/class-safetymail-form-admin.php:154
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-display.php:17
+msgid "Safetymails Forms"
+msgstr ""
+
+#: admin/class-safetymail-form-admin.php:145
+msgid "Add New"
+msgstr ""
+
+#: includes/class-safetymail-form-list.php:120
+msgid "Delete"
+msgstr ""
+
+#: includes/class-safetymail-form-list.php:126
+msgid "Edit"
+msgstr ""
+
+#: includes/class-safetymail-form-list.php:180
+msgid "Name"
+msgstr ""
+
+#: includes/class-safetymail-form-list.php:181
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-safetymail-form-list.php:182
+msgid "Action"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:17
+msgid "Add New Form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:18
+msgid "Create a brand new form using protected by Safetymails"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:25
+msgid "Ex: contact, newsletter, etc."
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:26
+msgid "A simple name to identify the form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:30
+msgid "Action Placeholder"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:31
+msgid "Action Hint"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:37
+msgid "Save Form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-new.php:38
+msgid "Return"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:46
+msgid "API Key"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:48
+msgid "Key given by SafetyOptin"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:51
+msgid "Ticket API"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:53
+msgid "Ticket given by SafetyOptin"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:62
+msgid "Message Settings"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:70
+msgid "Subject"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:72
+msgid "Subject for the messages sent from the form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:75
+msgid "Name to send mail as"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:79
+msgid "Sender email"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:81
+msgid "Email address to send mail from"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:84
+msgid "Recipient email"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:86
+msgid "Email address to send mail to"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:89
+msgid "Reply Email"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:91
+msgid "Optional reply-to email for the messages sent from the form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:94
+msgid "Content type"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:111
+msgid "Form settings"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:118
+msgid "Validation message"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:121
+msgid "This message will be displayed for invalid email addresses"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:125
+msgid "Post-processing action"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:128
+msgid "None"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:131
+msgid "Show Message"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:134
+msgid "Redirect"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:143
+msgid "Message"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:144
+msgid "Redirect URL"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:150
+msgid "Send email status"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:153
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:156
+msgid "No"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:162
+msgid "Send invalid email addresses"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:179
+msgid "Build your form"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:53
+msgid "Activate email validation"
+msgstr ""
+
+#: admin/partials/safetymail-form-admin-edit.php:161
+msgid "Register your Form API on SafetyMail's SafetyOptin, copy the data (API Key and Ticket API) and paste here to link your form to your integration."
+msgstr ""
